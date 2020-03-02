@@ -1,5 +1,5 @@
 # inSight
-### HackTheBurgh Project
+### HackTheBurgh Project (Awarded by AND digital)
 #### Created by: Steven Chang, Alexandra Purcarea, Pradnesh Sanderan and Jonathan Gustafsson Frennert. 
 
 Android application written in native Java for sustainable travelling via Google Maps, OpenTripMap and OpenWeatherMap API integrations. This application curates the most sustainable recreational activities that tourists can get in their vicinity, even considering the weather! We aim to make this the only app tourists will ever need.
